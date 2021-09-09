@@ -86,6 +86,8 @@ main {
 .search-box {
   width: 100%;
   margin-bottom: 30px;
+  /*k*/
+
 }
 
 .search-box .search-bar{
